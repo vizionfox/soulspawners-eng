@@ -5,6 +5,7 @@ A fully localized, improved version of the SoulSpawners Minecraft plugin. Drops 
 ## Features
 - Souls drop ONLY if a player kills a living, spawnable mob (no farm abuse)
 - `/ss chance` command to show true in-game drop chance
+- Blacklisted-Mobs in `config.yml`
 - Configurable drop rates, recipes, item
 - All user-facing messages in English
 - Based on the original SoulSpawners (MIT License) by mvk, re-localized and improved by VizionFox
