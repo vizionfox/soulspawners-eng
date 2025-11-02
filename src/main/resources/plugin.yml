@@ -1,0 +1,16 @@
+name: soulspawners-eng
+version: '1.1'
+main: org.mvk.soulspawners.Soulspawners
+api-version: '1.21'
+commands:
+  ss:
+    description: SoulSpawner command
+    usage: /<command> give <mob> <count>
+    permission: soulspawner.use
+permissions:
+  soulspawner.use:
+    description: Використовувати команду ss
+    default: true
+  soulspawner.give:
+    description: Можливість видавати душі мобів
+    default: op

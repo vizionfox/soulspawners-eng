@@ -1,0 +1,23 @@
+messages:
+  inserted: "&aYou have inserted the soul of %mob% into the spawner!"
+  corrupted: "&cThis soul is corrupted."
+  no_permission: "&cYou do not have permission!"
+  invalid_mob: "&cUnknown mob!"
+  gave_soul: "&aGave %count%x soul of %mob%."
+
+drop-souls: true
+drop-from-spawner: true
+spawner-crafting: true
+
+soul-drop-chance: 10.0
+
+soul-item: "GHAST_TEAR"
+
+spawner-recipe:
+  shape:
+    - "III"
+    - "INI"
+    - "III"
+  ingredients:
+    I: "IRON_BARS"
+    N: "NETHER_STAR"
