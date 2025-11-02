@@ -11,7 +11,7 @@ A fully localized, improved version of the SoulSpawners Minecraft plugin. Drops 
 
 ## Installation
 1. Put the built JAR in your server's `plugins` folder.
-2. Edit `config.yml` to your liking: drop chance, item, recipe.
+2. Edit `config.yml` to your liking: drop chance, item, recipe, and blacklisted mobs.
 3. Restart the server.
 
 ## License
